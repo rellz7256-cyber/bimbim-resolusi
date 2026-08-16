@@ -1,0 +1,4 @@
+rencana bimbim akhir tahun 2026
+
+- front end : bisa menguasai react js, dan next js.
+- back end : bisa menguasai php, mysql, dan laravel.
